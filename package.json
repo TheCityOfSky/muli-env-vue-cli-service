@@ -1,5 +1,5 @@
 {
-  "name": "@vue/multi-prod-env-cli-service",
+  "name": "multi-prod-env-vue-cli-service",
   "version": "1.0.0",
   "description": "local service for multi production environment vue-cli projects",
   "main": "lib/Service.js",

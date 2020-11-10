@@ -74,6 +74,7 @@
     "webpack-chain": "^4.11.0",
     "webpack-dev-server": "^3.2.0",
     "webpack-merge": "^4.2.1",
+    "@vue/cli-service": "^4.5.8",
     "yorkie": "^2.0.0"
   },
   "peerDependencies": {
